@@ -2,7 +2,7 @@
 
 <img src="cover55.png" width="100%" >
 <img src="cover33.png" width="100%" >
-### Description:
+# Description:
 
 Using ChatGPT API and NodeJs to create an old-style chat application in the theme of Tron. Beginner tier react app. 
 
