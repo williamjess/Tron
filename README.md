@@ -1,19 +1,15 @@
-# How to Build a Retro AI Chat App with OpenAI API and Node.js | Step-by-Step Tutorial
+# AI Chat App with an OpenAI API and Node.js 
 
 <img src="cover.png" width="100%" >
-
-### YouTube Tutorial:
-
-https://youtu.be/pRqJld1Jgos
-
+<img src="cover2.png" width="100%" >
 ### Description:
 
-In this tutorial we use OpenAI (ChatGPT) API and NodeJs to create a retro AI Chat console application. This is a easy beginner friendly tutorial. We start with a blank project and add the required dependencies and code the logic for a simple console application. As an added bonus we apply color and ascii art for a retro AI chat application.
+Using ChatGPT API and NodeJs to create an old-style chat application in the theme of Tron. Beginner tier react app. 
 
-I will also show you how to remove the following error:
+#### Setup Env
+In a new terminal:
+npm init -y 
+npm install openai dotenv chalk readline-sync
 
-```
-DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
-```
-
-If you enjoy this tutorial please subscribe, like and share on YouTube.
+#### Run Env
+node index.js
