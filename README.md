@@ -1,4 +1,4 @@
-# AI Chat App with an OpenAI API and Node.js 
+# Tron themed AI Chat App with an OpenAI API and Node.js 
 
 <img src="cover55.png" width="100%" >
 <img src="cover33.png" width="100%" >
